@@ -1,0 +1,6 @@
+*.sublime-project
+*.sublime-workspace
+__pycache__/
+*.pyc
+testMap1.py
+balance_test.py
